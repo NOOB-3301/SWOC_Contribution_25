@@ -93,6 +93,7 @@
     - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/161
     - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/169
     - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/175
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/176
   
 7. [studentify](https://github.com/avanimathur/Student-ify/)
     - [63](https://github.com/avanimathur/Student-ify/pull/63)
