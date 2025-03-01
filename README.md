@@ -61,7 +61,10 @@
     - https://github.com/Dishika18/InsightSync/pull/201
     - https://github.com/Dishika18/InsightSync/pull/210
     - https://github.com/Dishika18/InsightSync/pull/209
-    - 
+    - https://github.com/Dishika18/InsightSync/pull/218
+    - https://github.com/Dishika18/InsightSync/pull/228
+    - https://github.com/Dishika18/InsightSync/pull/229
+    - https://github.com/Dishika18/InsightSync/pull/232
   
 4. [scd profile score](https://github.com/Ojas-Arora/SCD-Profile-Score)
     - [35](https://github.com/Ojas-Arora/SCD-Profile-Score/pull/35)
@@ -83,6 +86,13 @@
     - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/134
     - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/140
     - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/144
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/145
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/149
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/148
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/160
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/161
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/169
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/175
   
 7. [studentify](https://github.com/avanimathur/Student-ify/)
     - [63](https://github.com/avanimathur/Student-ify/pull/63)
@@ -106,6 +116,7 @@
      - https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/354
      - https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/360
      - https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/365
+     - https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/373
 
   
 10. [matrubodah](https://github.com/Anjaliavv51/Matrubodhah)
