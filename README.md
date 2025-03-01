@@ -22,6 +22,16 @@
     - https://github.com/OkenHaha/react-blog/pull/281
     - https://github.com/OkenHaha/react-blog/pull/285
     - https://github.com/OkenHaha/react-blog/pull/301
+    - https://github.com/OkenHaha/react-blog/pull/308
+    - https://github.com/OkenHaha/react-blog/pull/312
+    - https://github.com/OkenHaha/react-blog/pull/327
+    - https://github.com/OkenHaha/react-blog/pull/334
+    - https://github.com/OkenHaha/react-blog/pull/345
+    - https://github.com/OkenHaha/react-blog/pull/356
+    - https://github.com/OkenHaha/react-blog/pull/355
+    - https://github.com/OkenHaha/react-blog/pull/359
+    - https://github.com/OkenHaha/react-blog/pull/362
+
 
 
 2. [Car rental](https://github.com/saurabh-dev-vns/car-rental)
@@ -47,6 +57,10 @@
     - https://github.com/Dishika18/InsightSync/pull/181
     - https://github.com/Dishika18/InsightSync/pull/182
     - https://github.com/Dishika18/InsightSync/pull/190
+    - https://github.com/Dishika18/InsightSync/pull/196
+    - https://github.com/Dishika18/InsightSync/pull/201
+    - https://github.com/Dishika18/InsightSync/pull/210
+    - https://github.com/Dishika18/InsightSync/pull/209
     - 
   
 4. [scd profile score](https://github.com/Ojas-Arora/SCD-Profile-Score)
@@ -55,6 +69,7 @@
   
 5. [techieblog](https://github.com/SumitGorai01/TechieBlog)
     - [15](https://github.com/SumitGorai01/TechieBlog/pull/15)
+    - https://github.com/SumitGorai01/TechieBlog/pull/276
   
 6. [interent fusion](https://github.com/KGupta2601/HackThisFall_InterestFusion)
     - [63](https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/63)
@@ -62,6 +77,12 @@
     - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/98
     - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/99
     - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/124
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/128
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/132
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/133
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/134
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/140
+    - https://github.com/KGupta2601/HackThisFall_InterestFusion/pull/144
   
 7. [studentify](https://github.com/avanimathur/Student-ify/)
     - [63](https://github.com/avanimathur/Student-ify/pull/63)
@@ -82,6 +103,9 @@
      - https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/326
      - https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/344
      - https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/352
+     - https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/354
+     - https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/360
+     - https://github.com/saismrutiranjan18/Tiffin_Fusion/pull/365
 
   
 10. [matrubodah](https://github.com/Anjaliavv51/Matrubodhah)
@@ -90,6 +114,7 @@
     - https://github.com/Anjaliavv51/Matrubodhah/pull/210
     - https://github.com/Anjaliavv51/Matrubodhah/pull/227
     - https://github.com/Anjaliavv51/Matrubodhah/pull/237
+    - https://github.com/Anjaliavv51/Matrubodhah/pull/262
    
 11. [weekend knocks](https://github.com/Praneeth-2602/Weekend_Knocks/pull/38)
     - https://github.com/Praneeth-2602/Weekend_Knocks/pull/38
